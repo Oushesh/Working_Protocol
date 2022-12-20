@@ -26,3 +26,6 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
 ## Backend
 
 ## Frontend
+
+## My say on User Experience:
+   * AuthO on user experience
