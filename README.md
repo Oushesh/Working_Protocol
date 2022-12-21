@@ -9,11 +9,8 @@ My working protocol and daily routine as a Software Engineer in AI and Deep Lear
 
 There are 2 stages of great work: Thinking Time and Execution Time. It does not overlap that much.
 
-
 ## Calendar (Google Calendar connected with cron app)
     ## Most of my calendar is built with Focus Time (http://www.paulgraham.com/makersschedule.html)
-
-
 
 ## Tools I use:
     Python: PyCharm with Github Co-pilot
@@ -24,7 +21,8 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
 ## AI Development
 
 ## Backend
-
+   * AuthO: check for authentification status in the app.
+   
 ## Frontend
 
 ## My say on User Experience:
