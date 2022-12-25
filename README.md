@@ -27,3 +27,10 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
 
 ## My say on User Experience:
    * AuthO on user experience
+
+## Github
+   Since I code mostly in Python and Next.js (javascript), for python I use the pre-commit to
+   ensure code quality: https://pre-commit.com/. Pre-commit helps me style the code professionally
+   every time I push a new code.
+   
+   To save time I also use the (☑️ ✔️  button from pycharm and the macbook M2 sidebar). This saves time avoiding typing commands onto Terminal or iTerm2 which I currently use for better fonts.
