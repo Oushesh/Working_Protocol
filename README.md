@@ -1,4 +1,10 @@
 ## Working_Protocol
+
+## Hardware Macbook M2 Pro or Dell Inspiron Slim Computer with Ubuntu 20 LTS for dev
+   By preference on Mac:
+   * install brew or MacPorts on Macbook: https://brew.sh/
+   * install macPorts from here: (advantage you get things as .dpkg like in ubuntu or linux)
+
 My working protocol and daily routine as a Software Engineer in AI and Deep Learning
 
 0800 - 1200 (less meetings) (more time to think)
