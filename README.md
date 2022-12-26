@@ -19,6 +19,11 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
 ## Working Rythm
 
 ## AI Development
+   Protoyping: jupyter notebook and google colab spaces.
+   In house training session: tmux on ubuntu linux lineup
+   
+   Github codespaces:
+   Github Copilot: 
 
 ## Backend
    * AuthO: check for authentification status in the app.
