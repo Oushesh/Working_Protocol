@@ -35,6 +35,8 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
    * AuthO: check for authentification status in the app.
    
 ## Frontend
+   * Next.js, tailwind.css (only) since I have an eye for design I will check if we can build this with AI (huge thing here)
+   * tailwind.css 
 
 ## My say on User Experience:
    * AuthO on user experience
