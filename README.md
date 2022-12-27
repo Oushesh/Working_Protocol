@@ -33,6 +33,9 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
 
 ## Backend
    * AuthO: check for authentification status in the app.
+
+## Deployment:
+   * add .env where all URLs, keys_api and payload get found
    
 ## Frontend
    * Next.js, tailwind.css (only) since I have an eye for design I will check if we can build this with AI (huge thing here)
