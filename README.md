@@ -31,6 +31,9 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
    Github codespaces:
    Github Copilot: 
 
+## API Dev:
+   Good practice to use: postman api and test
+
 ## Backend
    * AuthO: check for authentification status in the app (Follow the tutorial and test it)
    
