@@ -32,14 +32,17 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
    Github Copilot: 
 
 ## Backend
-   * AuthO: check for authentification status in the app.
+   * AuthO: check for authentification status in the app (Follow the tutorial and test it)
+   
 
 ## Deployment:
    * add .env where all URLs, keys_api and payload get found
-   
+   * My style: docker, docker compose up (.yaml file) --> improvement on it is: docker compose with cache. (docker setup on mac) (TODO)
+   * 
 ## Frontend
    * Next.js, tailwind.css (only) since I have an eye for design I will check if we can build this with AI (huge thing here)
    * tailwind.css 
+   * Since I am an AI engineer, I use chat.openai.com to help navigate through the process of designing the app.
 
 ## My say on User Experience:
    * AuthO on user experience
