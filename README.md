@@ -46,6 +46,7 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
    * Next.js, tailwind.css (only) since I have an eye for design I will check if we can build this with AI (huge thing here)
    * tailwind.css 
    * Since I am an AI engineer, I use chat.openai.com to help navigate through the process of designing the app.
+   * Tips to design without needing a designer: https://www.refactoringui.com/?ref=sidebar
 
 ## My say on User Experience:
    * AuthO on user experience
