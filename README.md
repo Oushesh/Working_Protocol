@@ -49,6 +49,7 @@ There are 2 stages of great work: Thinking Time and Execution Time. It does not 
    * Tips to design without needing a designer: https://www.refactoringui.com/?ref=sidebar
    * Code Structure: Pre-commits using husky. For Next.js I use prettier and rome formatter written in rust.
    * https://amanhimself.dev/blog/setup-nextjs-project-with-eslint-prettier-husky-lint-staged/
+   * Tailwind.css, flowbite elements, 
    
 ## My say on User Experience:
    * AuthO on user experience
